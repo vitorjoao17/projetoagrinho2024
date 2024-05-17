@@ -1,0 +1,18 @@
+.cabeçalho {background-color:rgb(12, 240, 248); color: #000; display:flex; justify-content: space-around;}
+.imagem-logo{width: 20%;}
+.cabeçalho-lista-item{display: inline-block; margin: 0 16px; font-size: 20px;} 
+.cabeçalho-lista-item{display: inline-block;}
+.produção de soja-imagem{width: 25%;}
+.produçaõ de soja{
+background-image: linear-gradient(#00ff84,#00a2ff);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;}
+.produçãodesoja-div-conteudo{width: 45%;}
+.produçãodesoja-titulo{padding: 30px o;}
+
+.produçaõ de soja{ padding: 24px 0; bac;background-color: #2d9e49;}
+
+.produçaõ de soja-imagem{ width: 140px;}
